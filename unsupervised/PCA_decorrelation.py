@@ -1,4 +1,5 @@
 # Import PCA
+#the principal components have to align with the axes of the point cloud
 from sklearn.decomposition import PCA
 
 # Create PCA instance: model
